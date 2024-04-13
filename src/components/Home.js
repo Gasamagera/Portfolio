@@ -81,20 +81,30 @@ const Home = () => {
             React's component-based architecture, it dynamically rendered movie
             information such as titles, ratings, and summaries.
           </p>
-          <button className="bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400">
+
+          <a
+            target="_blank"
+            href="https://movie-project-phi-orpin.vercel.app/"
+            className="block bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400"
+          >
             Visit
-          </button>
+          </a>
         </div>
         <div className="bg-blue-100 p-4 rounded shadow-2xl" data-aos="zoom-out">
           <img className="" src={htm} />
           <h1 className="font-bold text-2xl">Project 2</h1>
           <p>
-            
-The HTML5 project was a responsive landing page designed for a fictional product. Leveraging HTML5's semantic elements and CSS3 for styling, it showcased smooth transitions and animations
+            The HTML5 project was a responsive landing page designed for a
+            fictional product. Leveraging HTML5's semantic elements and CSS3 for
+            styling, it showcased smooth transitions and animations
           </p>
-          <button className="bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400">
+          <a
+            target="_blank"
+            href="https://movie-project-phi-orpin.vercel.app/"
+            className="block bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400"
+          >
             Visit
-          </button>
+          </a>
         </div>
         <div
           className="bg-blue-100 p-4 rounded shadow-2xl "
@@ -105,12 +115,16 @@ The HTML5 project was a responsive landing page designed for a fictional product
           <p>
             The JavaScript project involved building a dynamic todo list
             application. Using JavaScript's DOM manipulation, it allowed users
-            to add, delete, and mark tasks as complete,user-friendly web 
+            to add, delete, and mark tasks as complete,user-friendly web
           </p>
 
-          <button className="bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400">
+          <a
+            target="_blank"
+            href="https://movie-project-phi-orpin.vercel.app/"
+            className="block bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400"
+          >
             Visit
-          </button>
+          </a>
         </div>
         <div className="bg-blue-100 p-4 rounded shadow-2xl" data-aos="zoom-out">
           <img className="" src={pytho} />
@@ -120,9 +134,13 @@ The HTML5 project was a responsive landing page designed for a fictional product
             multiple sites, stored in MySQL.Using BeautifulSoup and requests for
             extraction, SQLAlchemy managed the database
           </p>
-          <button className="duration-150 ease-out hover:ease-in bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400 transition ">
+          <a
+            target="_blank"
+            href="https://movie-project-phi-orpin.vercel.app/"
+            className="block bg-blue-300 text-black font-bold tracking-widest rounded-full p-2 my-2 px-20 mx-4 mt-4 hover:bg-blue-400"
+          >
             Visit
-          </button>
+          </a>
         </div>
         <div class="flex justify-between items-center px-4">
           <span class="text-sm font-medium text-gray-700">JavaScript</span>
